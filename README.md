@@ -13,6 +13,7 @@ RESOURCES:
 * https://discussions.udacity.com/t/markedly-underwhelming-and-potentially-wrong-resource-list-for-p5/8587
 * https://help.ubuntu.com/community/AutomaticSecurityUpdates#Using_cron_and_aptitude
 * https://mediatemple.net/community/products/dv/204643810/how-do-i-disable-ssh-login-for-the-root-user
+* http://askubuntu.com/questions/59458/error-message-when-i-run-sudo-unable-to-resolve-host-none
 
 NOTE TO SELF
 
