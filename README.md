@@ -12,6 +12,7 @@ SUMMARY OF INSTALLED SOFTWARE AND CONFIGURATION CHANGES MADE:
 RESOURCES:
 * https://discussions.udacity.com/t/markedly-underwhelming-and-potentially-wrong-resource-list-for-p5/8587
 * https://help.ubuntu.com/community/AutomaticSecurityUpdates#Using_cron_and_aptitude
+* https://mediatemple.net/community/products/dv/204643810/how-do-i-disable-ssh-login-for-the-root-user
 
 NOTE TO SELF
 
